@@ -1,4 +1,4 @@
-I do Natural Language processing, Full stack development (Language agnostic)
+I do Natural Language processing, (Language agnostic Full stack development too)
 
 Open to collaborate on projects with Python, Javascript, Java, Dart or any other languages
 
