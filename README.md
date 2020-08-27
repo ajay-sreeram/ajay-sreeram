@@ -34,6 +34,7 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Generating dance steps for a given music in specified style.
 * Natural language based visual analytic dashboard.
 * A voice bot that can see, listen, talk, learn and understand.
+* Created an Augmented reality mobile app to bring Lord Ganesha to home.
 * A webpage to do completely autonomous chat with popular gpt-2 model.
 * Telegram bot to do random chitchat and also to add neural stylings to the photos.
 * Mobile app to chat and listen to music in sync.
