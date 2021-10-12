@@ -29,6 +29,7 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Restaurant app to order food and track from the table. (Runner up)
 
 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+* Live agent dashboard with smart recomendations, automatic tagging, conversational analysis.
 * Image caption mapping for multiple tasks including image based document search.
 * Converting natural language sentence to an interpretable json.
 * Converting sql query into a natural language sentence.
