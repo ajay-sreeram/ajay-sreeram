@@ -46,3 +46,4 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Chrome extension to mark highlights in page for further references.
 * Digital slam book with options to request and write for others.
 * Online platform to find study materials, books and novels 
+* Android app to draw tri colors on selfies.
