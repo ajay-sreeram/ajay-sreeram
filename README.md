@@ -18,15 +18,15 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Java modules to trigger reports to managers and sending bulk sms to publish offers.
 
 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-* Neural presentation, add/modify elements in slides by processing the brain neural signals (Runner Up)
+* Neural presentation, add/modify elements in slides by processing the brain neural signals (Runner-up)
 * RaspberryPi robot to monitor guests entering stores, for Covid-19 safety. (Winner)
 * Flutter app for in-store cart checkout, live commerce feature and a dashboard to engage those orders.
-* Important phrases extraction from product reviews. (Runner up)
+* Important phrases extraction from product reviews. (Runner-up)
 * In car voice bot for basic enquiries about near by target stores. (Winner)
-* Predicting the road accident over a period of time at particular location. (Winner)
+* Predicting the road accident over a period of time at particular location. (Runner-up)
 * Converting handwritten wireframes to UI code. (Winner)
 * Voice bot to build a customised static website. (Winner)
-* Restaurant app to order food and track from the table. (Runner up)
+* Restaurant app to order food and track from the table. (Runner-up)
 
 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 * Live agent dashboard with smart recomendations, automatic tagging, conversational analysis.
