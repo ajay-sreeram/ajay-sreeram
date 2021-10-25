@@ -1,4 +1,4 @@
-I do Natural Language processing, (Language agnostic Full stack development too)
+I work on Natural Language processing and Language agnostic Full stack development.
 
 Open to collaborate on projects with Python, Javascript, Java, Dart or any other languages
 
@@ -18,7 +18,7 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Java modules to trigger reports to managers and sending bulk sms to publish offers.
 
 𝗛𝗮𝗰𝗸𝗮𝘁𝗵𝗼𝗻 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
-* Neural presentation, add/modify elements in slides by processing the brain neural signals (Runner-up)
+* Neural presentation: add/modify elements in slides by processing the brain neural signals (Runner-up)
 * RaspberryPi robot to monitor guests entering stores, for Covid-19 safety. (Winner)
 * Flutter app for in-store cart checkout, live commerce feature and a dashboard to engage those orders.
 * Important phrases extraction from product reviews. (Runner-up)
@@ -44,7 +44,7 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
   * Mobile app to chat and listen to music in sync.
   * Chrome extension to get qr code of opened webpage.
   * Image processing based gesture controls to a popular vr game on browser.
-  * Pomodoro app for time management.
+  * Pomodoro app for time management, with notes and alert notifications.
   * Chrome extension to mark highlights in page for further references.
   * Digital slam book with options to request and write for others.
   * Online platform to find study materials, books and novels 
