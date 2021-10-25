@@ -35,15 +35,17 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Converting sql query into a natural language sentence.
 * Generating dance steps for a given music in specified style.
 * Natural language based visual analytic dashboard.
-* A voice bot that can see, listen, talk, learn and understand.
-* Created an Augmented reality mobile app to bring Lord Ganesha to home.
-* A webpage to do completely autonomous chat with popular gpt-2 model.
-* Telegram bot to do random chitchat and also to add neural stylings to the photos.
-* Mobile app to chat and listen to music in sync.
-* Chrome extension to get qr code of opened webpage.
-* Image processing based gesture controls to a popular vr game on browser.
-* Pomodoro app for time management.
-* Chrome extension to mark highlights in page for further references.
-* Digital slam book with options to request and write for others.
-* Online platform to find study materials, books and novels 
-* Android app to draw tri colors on selfies.
+* Weekend projects:
+  * A voice bot that can see, listen, talk, learn and understand.
+  * Created an Augmented reality mobile app to bring Lord Ganesha to home.
+  * A webpage to do completely autonomous chat with popular gpt-2 model.
+  * Telegram bot to do random chitchat and also to add neural stylings to the photos.
+  * Kids drawing app to show correctness and mistakes in their sketch.
+  * Mobile app to chat and listen to music in sync.
+  * Chrome extension to get qr code of opened webpage.
+  * Image processing based gesture controls to a popular vr game on browser.
+  * Pomodoro app for time management.
+  * Chrome extension to mark highlights in page for further references.
+  * Digital slam book with options to request and write for others.
+  * Online platform to find study materials, books and novels 
+  * Android app to draw tri colors on selfies.
