@@ -38,7 +38,7 @@ Open to collaborate on projects with Python, Javascript, Java, Dart or any other
 * Weekend projects:
   * A voice bot that can see, listen, talk, learn and understand.
   * Created an Augmented reality mobile app to bring Lord Ganesha to home.
-  * A webpage to do completely autonomous chat with popular gpt-2 model.
+  * A webpage to do anonymous chat with popular gpt-2 model.
   * Telegram bot to do random chitchat and also to add neural stylings to the photos.
   * Kids drawing app to show correctness and mistakes in their sketch.
   * Mobile app to chat and listen to music in sync.
