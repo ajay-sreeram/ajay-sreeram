@@ -1,7 +1,5 @@
 I work on Natural Language Processing and language agnostic Full Stack development.
 
-Open to collaborate on projects with Python, Javascript, Java, Dart or any other languages
-
 **𝗡𝗟𝗣 / 𝗡𝗟𝗨 & 𝗡𝗟𝗚:**
 * Chatbots, Conversational agents, user simulation, natural language understanding
 * Entity recognition, Intent classification, conversation similarity match
